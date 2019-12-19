@@ -1,0 +1,46 @@
+{
+    "name": "Find Your MP- UK Parliament",
+    "description": "Parliament is made up of the House of Commons and House of Lords. It is responsible for making laws, deciding taxes and scrutinising the Government.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/785-find-your-mp--uk-parliament.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "parliament",
+        "politics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/find-your-mp-uk-parliament\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Find Your MP- UK Parliament",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/785-find-your-mp--uk-parliament.jpg",
+            "humanURL": "http:\/\/findyourmp.parliament.uk\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/find-your-mp-uk-parliament-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/findyourmp.parliament.uk\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/parliament"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UKParliament"
+        }
+    ]
+}
